@@ -1,22 +1,24 @@
 body{
-   color: aqua;
+   background-color: bisque;
 }
-
+h1{
+    color: black;
+}
 .centrar{
-    margin-auto; 
+    margin: auto; 
     display: flex;
     justify-content: center;
 }
 .amarillo{
-    background-color: yellow;
+    background-color: burlywood;
     height: 250px;
 }
 .azul{
-    background-color: blue;
+    background-color: cornsilk;
     height: 250px;
 }
 .rojo{
-    background-color: red;
+    background-color: darkgray;
     height: 250px;
 }
 p{
